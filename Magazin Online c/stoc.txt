@@ -1,0 +1,24 @@
+Coca Cola 0.33L
+suc
+60 1.69
+Schweps 0.33L
+suc
+21 1.89
+Pepsi 0.33L
+suc
+45 1.69
+Shaorma Mica
+fast food
+67 10.00
+Pizza Diavola
+pizza
+21 22.00
+Pizza cu Ananas
+pizza
+18 24.00
+Pizza Casei
+pizza
+29 25.00
+Sobranie Mov
+tigari
+20 16.50

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618214903 source:c:\info faculta\anul i\semestrul ii\stagiu de practica 1\magazin online\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
